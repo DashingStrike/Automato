@@ -3,6 +3,8 @@ Automato is a LUA-based automation program which is useful for any automation ta
 
 Get more general information on [the website](http://www.dashingstrike.com/Automato).
 
+Contact us through the [issues](https://github.com/DashingStrike/Automato/issues) page.
+
 ### Game-specific script repositories
 * [A Tale in the Desert](https://github.com/DashingStrike/Automato-ATITD)
 * [Final Fantasy XIV](https://github.com/DashingStrike/Automato-FFXIV)
