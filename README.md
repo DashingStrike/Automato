@@ -1,6 +1,8 @@
 # Automato
 Automato is a LUA-based automation program which is useful for any automation task which primarily involves screen scraping and sending mouse clicks, with a special focus on automating video games.  Automato was originally called <i>Jimbly's VeggieTales</i>, as it was initially developed for growing vegetables in <i><a href="http://atitd.com">A Tale in the Desert</a></i>, but has grown to be used in other games as well.
 
+Scripting reference and other documentation can be found on [the wiki](https://github.com/DashingStrike/Automato/wiki).
+
 Get more general information on [the website](http://www.dashingstrike.com/Automato).
 
 Contact us through the [issues](https://github.com/DashingStrike/Automato/issues) page.
