@@ -5,7 +5,7 @@ Scripting reference and other documentation can be found on [the wiki](https://g
 
 Get more general information on [the website](http://www.dashingstrike.com/Automato).
 
-Contact us through the [issues](https://github.com/DashingStrike/Automato/issues) page.
+For general Automato issues, you can contact us [here](https://gitreports.com/issue/DashingStrike/Automato), or if you have a GitHub account, please use the [Issues page](https://github.com/DashingStrike/Automato/issues).  For game/script-specific issues, please use the links below.
 
 ### Game-specific script repositories
 * [A Tale in the Desert](https://github.com/DashingStrike/Automato-ATITD)
