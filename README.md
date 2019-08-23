@@ -19,3 +19,16 @@ For general Automato issues, you can contact us [here](https://gitreports.com/is
 ### Other script repositories
 * [Examples](https://github.com/DashingStrike/Automato-Examples)
 * [common scripts usable in all repositories](https://github.com/DashingStrike/Automato-common)
+
+# Source Code
+
+Source code for Automato itself is not required to create, edit, and maintain macros. It is available via public SVN (recommended to use [TortoiseSVN](https://tortoisesvn.net/downloads.html)): **svn://www.dashingstrike.com/other/VeggieTales**. Commit access available to anyone who asks. It might move it to GitHub someday, but external dependencies and Git don't work as magically as SVN.  To check out with a command-line client:
+```
+svn checkout svn://www.dashingstrike.com/other/VeggieTales
+```
+Or, git itself contains a rudimentary SVN client, so you can get the code and externals via these commands, but it takes a *really* long time, and will not automatically pull externals for you in the future to get updates, so really isn't recommended, unless you're just looking for a (really inefficient) way to get a snapshot of the code:
+```
+git svn clone svn://www.dashingstrike.com/other/VeggieTales Automato
+git svn clone svn://www.dashingstrike.com/src/GLOV Automato/GLOV
+git svn clone svn://www.dashingstrike.com/src/Projects/User/Automato Automato/Projects/User/Automato
+```
