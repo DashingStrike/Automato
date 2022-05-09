@@ -10,7 +10,7 @@ Join the [Automato Discord](https://discord.gg/XVUdwy8) to interact with other s
 For general Automato issues, you can contact us [here](https://gitreports.com/issue/DashingStrike/Automato), or if you have a GitHub account, please use the [Issues page](https://github.com/DashingStrike/Automato/issues).  For game/script-specific issues, please use the links below.
 
 ### Game-specific script repositories
-* [A Tale in the Desert](https://github.com/DashingStrike/Automato-ATITD9)
+* [A Tale in the Desert](https://github.com/DashingStrike/Automato-ATITD10)
 * [Final Fantasy XIV](https://github.com/DashingStrike/Automato-FFXIV)
 * [Atom Zombie Smasher](https://github.com/DashingStrike/Automato-AtomZombieSmasher)
 * [Diablo 3](https://github.com/DashingStrike/Automato-Diablo3)
