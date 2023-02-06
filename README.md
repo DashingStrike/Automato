@@ -22,7 +22,7 @@ For general Automato issues, you can contact us [here](https://gitreports.com/is
 
 # Source Code
 
-Source code for Automato itself is not required to create, edit, and maintain macros. It is available via public SVN (recommended to use [TortoiseSVN](https://tortoisesvn.net/downloads.html)): **svn://www.dashingstrike.com/other/VeggieTales**. Commit access available to anyone who asks. It might move it to GitHub someday, but external dependencies and Git don't work as magically as SVN.  To check out with a command-line client:
+Source code for Automato itself is not required to create, edit, and maintain macros. It is available via public SVN (recommended to use [TortoiseSVN](https://tortoisesvn.net/downloads.html)): `svn://www.dashingstrike.com/other/VeggieTales`. Commit access available to anyone who asks. It might move it to GitHub someday, but external dependencies and Git don't work as magically as SVN.  To check out with a command-line client:
 ```
 svn checkout svn://www.dashingstrike.com/other/VeggieTales
 ```
